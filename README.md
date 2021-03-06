@@ -1,6 +1,5 @@
 # sampleWS
 
-## opis
 
 Przykładowy skrypt pobiera treść strony z promocjami na Steam i zapisuje do pliku tekstowego.
 
